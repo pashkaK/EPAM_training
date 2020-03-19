@@ -1,0 +1,67 @@
+body {
+    width: 1080px;
+    margin: 0px auto;
+    font-family: 'IBM Plex Serif', serif;
+    background: #fff8f0;
+    line-height: 24px;
+}
+.wrapper {
+    display: flex;
+    /* justify-content: flex-start; */
+    margin: 20px auto;
+    margin-bottom: 0px;
+}
+#header-main {
+    margin: 0px auto;
+    margin-left: 130px;
+}
+#header-left, 
+#header-right {
+    margin-top: 55px;
+}
+#header-left {
+    margin-left: 30px;
+}
+#header-right {
+    margin-right: 30px;
+}
+h1 {
+    font-size: 48px;
+}
+.wrapper-img {
+    height: 294px;
+    width: 1080px;
+    background:url("../img/nav.png");
+    background-size: contain;
+}
+.wrapper-h {
+    margin: 20px auto;
+    text-align: center;
+}
+h2 {
+    font-size: 24px;
+}
+.wrapper-info {
+    display: flex;
+    font-size: 18px;
+    margin: 20px;
+}
+.img-human {
+    width: 240px;
+    height: 400px;
+    float: left;
+    margin: 10px;
+}
+.revised__info {
+    color: #fff;
+    font-size: 24px;
+    padding: 10px;
+    background-color: #000;
+    margin: 20px auto;
+}
+.img-family {
+    width: 760px;
+    height: 340px;
+    float: right;
+    margin: 10px;
+}
